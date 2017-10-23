@@ -1,0 +1,152 @@
+body{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: bold;
+	padding-top: 0px;
+	margin-top: 0px
+}
+nav{
+	/*outline: 1px solid yellow;*/
+	width: 1349px;
+	position: fixed;
+	background: white;
+	
+}
+ul{
+	/*outline: 1px solid red;*/
+	padding: 0px;
+	margin: 0px;
+}
+
+li{
+	display: inline-block;
+	
+	
+}
+a{
+	/*outline: 1px solid green;*/
+	text-decoration: none;
+	color: #b5b5b5;
+}
+.menu2{
+	font-size: 18px;
+	width: 970px;
+	height: 40px;
+	background: #EFEFEF;
+	border-radius: 5px;
+	line-height: 50%;	
+}
+.fa-pinterest{
+	color: #bd081c;
+	font-size: 45px;
+	padding-left: 55px;
+	padding-top: 10px;
+	padding-right: 5px;
+	padding-bottom: 20px;
+	line-height: 70%
+}
+.fa-search{
+	margin-left: 40px;
+	margin-bottom: 20px;
+	font-size: 18px;
+}
+.fa-times, .fa-chevron-down{
+	margin-right: 0px;
+	margin-left: 5px;
+}
+.fa-user, .fa-bars, .fa-commenting{
+	font-size: 20px;
+	margin-left: 40px;
+}
+.caja-texto{
+	width: 760px;
+	margin-right: 0px;
+	margin-left: 10px;
+	background-color: transparent;
+	border: transparent;
+}
+hr{
+	margin: 0px;
+	padding: 0px;
+	border-color: #EFEFEF;
+}
+.texto1{
+	display: inline-block;
+	font-size: 17px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+#sub-menu{
+	/*outline: 1px solid green;*/
+	color: white;
+	margin-top: 10px;
+	height: 55px;
+	line-height: 300%
+}
+.boton_1{
+	background: #F27AB5;
+	width: 120px;
+	border-radius: 5px;
+	text-align: center;
+	margin-left: 120px;
+}
+.boton_2, .boton_3, .boton_4, .boton_5, .boton_6, .boton_7, .boton_8, .boton_9{
+	border-radius: 5px;
+	color: white;
+	text-align: center;
+	margin-left: 10px;
+}
+.boton_2{
+	background: #ffb1d7;
+	width: 115px;
+}
+.boton_3{
+	background: #0D6B8C;
+	width: 93px;
+}
+.boton_4{
+	background: #F2C3DF;
+	width: 133px;
+}
+.boton_5{
+	background: #9DE6F2;
+	width: 119px;
+}
+.boton_6{
+	background: #E88794;
+	width: 93px;
+}
+.boton_7{
+	background: #0DE5B7;
+	width: 74px;
+}
+.boton_8{
+	background: #6B0768;
+	width: 115px;
+}
+.boton_9{
+	background: #7A6B8C;
+	width: 120px;
+}
+
+.imagen01, .imagen02, .imagen03, .imagen04{
+	/*outline: 1px solid red;*/
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 120px
+}
+img{
+	/*outline: 1px solid blue;*/
+	width: 270px;
+	border-radius: 20px;
+	padding: 10px;
+}
+
+.imagen01, .imagen05{
+	/*outline: 1px solid red;*/
+	margin-left: 67px;
+}
+.imagen05, .imagen07, .imagen08, .imagen09{
+	display: inline-block;
+	vertical-align: top; 
+
+}
